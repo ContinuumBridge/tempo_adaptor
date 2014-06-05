@@ -1,4 +1,4 @@
-temp_app
+tempo_adaptor
 ========
 
-App for Bluemaestro Tempo.
+Adaptor for Bluemaestro Tempo.
